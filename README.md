@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**5** solved · 5 problems · 0 labs · 0 math
+**6** solved · 6 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -17,6 +17,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2026-10-17 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-10-17 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-10-17 | [solution](problems/0009-matrix-times-matrix) |
+| [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-10-17 | [solution](problems/0007-matrix-transformation) |
 
 ---
 
