@@ -1,3 +1,4 @@
+import numpy as np
 def transpose_matrix(a: list[list[int|float]]) -> list[list[int|float]]:
     """
     Transpose a 2D matrix by swapping rows and columns.
@@ -8,10 +9,13 @@ def transpose_matrix(a: list[list[int|float]]) -> list[list[int|float]]:
     Returns:
         The transposed matrix of shape (n, m)
     """
-    ans = []
-    for i in range(len(a[0])):
-        temp = []
-        for j in range(len(a)):
-            temp.append(a[j][i])
-        ans.append(temp)
-    return ans
+    # ans = []
+    # for i in range(len(a[0])):
+    #     temp = []
+    #     for j in range(len(a)):
+    #         temp.append(a[j][i])
+    #     ans.append(temp)
+    # return ans
+    a = np.array(a, dtype=int)
+    a = a.T
+    return a.tolist()
