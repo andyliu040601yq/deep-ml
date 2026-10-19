@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**24** solved · 14 problems · 0 labs · 10 math
+**25** solved · 14 problems · 0 labs · 11 math
 
 ![Coverage](./coverage.svg)
 
@@ -36,6 +36,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Probability Fundamentals](https://www.deep-ml.com/math-problems/19) | easy | 2026-10-19 | [solution](math/0019-probability-fundamentals) |
 | [Vector Operations](https://www.deep-ml.com/math-problems/7) | easy | 2026-10-18 | [solution](math/0007-vector-operations) |
 | [Bayes' Theorem](https://www.deep-ml.com/math-problems/20) | medium | 2026-10-19 | [solution](math/0020-bayes-theorem) |
+| [Law of Large Numbers and Central Limit Theorem](https://www.deep-ml.com/math-problems/23) | medium | 2026-10-19 | [solution](math/0023-law-of-large-numbers-and-central-limit-theorem) |
 | [Matrix Multiplication](https://www.deep-ml.com/math-problems/10) | medium | 2026-10-18 | [solution](math/0010-matrix-multiplication) |
 | [Multivariate Calculus](https://www.deep-ml.com/math-problems/2) | medium | 2026-10-18 | [solution](math/0002-multivariate-calculus) |
 | [Neural Network Derivatives](https://www.deep-ml.com/math-problems/3) | medium | 2026-10-19 | [solution](math/0003-neural-network-derivatives) |
