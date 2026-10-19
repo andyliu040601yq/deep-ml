@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T18:54:54.167Z",
+  "generated_at": "2026-10-19T22:22:54.122Z",
   "items": {
     "problem:5": {
       "kind": "problem",
@@ -281,6 +281,17 @@
       "path": "math/0019-probability-fundamentals",
       "first_solved_at": "2026-10-19T18:54:49.576Z",
       "last_pushed_at": "2026-10-19T18:54:49.576Z"
+    },
+    "math:20": {
+      "kind": "math",
+      "id": "20",
+      "title": "Bayes' Theorem",
+      "difficulty": "medium",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/20",
+      "path": "math/0020-bayes-theorem",
+      "first_solved_at": "2026-10-19T22:22:53.423Z",
+      "last_pushed_at": "2026-10-19T22:22:53.423Z"
     }
   }
 }
