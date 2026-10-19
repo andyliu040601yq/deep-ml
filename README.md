@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**19** solved · 14 problems · 0 labs · 5 math
+**20** solved · 14 problems · 0 labs · 6 math
 
 ![Coverage](./coverage.svg)
 
@@ -35,6 +35,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Vector Operations](https://www.deep-ml.com/math-problems/7) | easy | 2026-10-18 | [solution](math/0007-vector-operations) |
 | [Matrix Multiplication](https://www.deep-ml.com/math-problems/10) | medium | 2026-10-18 | [solution](math/0010-matrix-multiplication) |
 | [Multivariate Calculus](https://www.deep-ml.com/math-problems/2) | medium | 2026-10-18 | [solution](math/0002-multivariate-calculus) |
+| [Neural Network Derivatives](https://www.deep-ml.com/math-problems/3) | medium | 2026-10-19 | [solution](math/0003-neural-network-derivatives) |
 | [Eigendecomposition and SVD](https://www.deep-ml.com/math-problems/16) | hard | 2026-10-18 | [solution](math/0016-eigendecomposition-and-svd) |
 
 ---
