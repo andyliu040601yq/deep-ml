@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T17:45:41.142Z",
+  "generated_at": "2026-10-19T18:54:54.167Z",
   "items": {
     "problem:5": {
       "kind": "problem",
@@ -270,6 +270,17 @@
       "path": "math/0006-optimization-convexity-and-critical-points",
       "first_solved_at": "2026-10-19T17:45:40.042Z",
       "last_pushed_at": "2026-10-19T17:45:40.042Z"
+    },
+    "math:19": {
+      "kind": "math",
+      "id": "19",
+      "title": "Probability Fundamentals",
+      "difficulty": "easy",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/19",
+      "path": "math/0019-probability-fundamentals",
+      "first_solved_at": "2026-10-19T18:54:49.576Z",
+      "last_pushed_at": "2026-10-19T18:54:49.576Z"
     }
   }
 }
