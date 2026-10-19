@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T22:33:58.134Z",
+  "generated_at": "2026-10-19T22:45:30.605Z",
   "items": {
     "problem:5": {
       "kind": "problem",
@@ -303,6 +303,17 @@
       "path": "math/0023-law-of-large-numbers-and-central-limit-theorem",
       "first_solved_at": "2026-10-19T22:33:57.581Z",
       "last_pushed_at": "2026-10-19T22:33:57.581Z"
+    },
+    "math:33": {
+      "kind": "math",
+      "id": "33",
+      "title": "Expectation and Variance Algebra",
+      "difficulty": "easy",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/33",
+      "path": "math/0033-expectation-and-variance-algebra",
+      "first_solved_at": "2026-10-19T22:45:30.072Z",
+      "last_pushed_at": "2026-10-19T22:45:30.072Z"
     }
   }
 }
