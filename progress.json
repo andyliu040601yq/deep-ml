@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T22:45:30.605Z",
+  "generated_at": "2026-10-20T05:59:01.623Z",
   "items": {
     "problem:5": {
       "kind": "problem",
@@ -314,6 +314,19 @@
       "path": "math/0033-expectation-and-variance-algebra",
       "first_solved_at": "2026-10-19T22:45:30.072Z",
       "last_pushed_at": "2026-10-19T22:45:30.072Z"
+    },
+    "problem:104": {
+      "kind": "problem",
+      "id": "104",
+      "title": "Binary Classification with Logistic Regression",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/104",
+      "path": "problems/0104-binary-classification-with-logistic-regression",
+      "first_solved_at": "2026-10-20T05:59:01.034Z",
+      "last_pushed_at": "2026-10-20T05:59:01.034Z",
+      "language": "python",
+      "lines": 18
     }
   }
 }
