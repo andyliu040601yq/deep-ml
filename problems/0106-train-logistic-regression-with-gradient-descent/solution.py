@@ -38,8 +38,11 @@ def train_logreg(X: torch.Tensor, y: torch.Tensor, learning_rate: float, iterati
         loss.backward()
         optimizer.step()
 
-    bias = model[0].bias.detach().item()
-    weights = model[0].weight.detach().flatten().tolist()
+    bias = model[0].bias.detach()
+    weights = model[0].weight.detach()
+
+    bias = bias.item()
+    weights = weights.flatten().tolist()
 
     coefficients = [bias] + weights
     coefficients = [round(v, 4) for v in coefficients]
