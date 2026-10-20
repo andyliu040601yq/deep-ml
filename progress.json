@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T19:05:08.883Z",
+  "generated_at": "2026-10-20T19:56:58.955Z",
   "items": {
     "problem:5": {
       "kind": "problem",
@@ -351,6 +351,19 @@
       "path": "math/0032-softmax-and-cross-entropy",
       "first_solved_at": "2026-10-20T19:05:08.100Z",
       "last_pushed_at": "2026-10-20T19:05:08.100Z"
+    },
+    "problem:40": {
+      "kind": "problem",
+      "id": "40",
+      "title": "Implementing a Custom Dense Layer in Python",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/40",
+      "path": "problems/0040-implementing-a-custom-dense-layer-in-python",
+      "first_solved_at": "2026-10-20T19:56:58.197Z",
+      "last_pushed_at": "2026-10-20T19:56:58.197Z",
+      "language": "python",
+      "lines": 79
     }
   }
 }
