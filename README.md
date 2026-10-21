@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**32** solved · 18 problems · 0 labs · 14 math
+**33** solved · 18 problems · 0 labs · 15 math
 
 ![Coverage](./coverage.svg)
 
@@ -43,6 +43,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Bayes' Theorem](https://www.deep-ml.com/math-problems/20) | medium | 2026-10-19 | [solution](math/0020-bayes-theorem) |
 | [Law of Large Numbers and Central Limit Theorem](https://www.deep-ml.com/math-problems/23) | medium | 2026-10-19 | [solution](math/0023-law-of-large-numbers-and-central-limit-theorem) |
 | [Matrix Multiplication](https://www.deep-ml.com/math-problems/10) | medium | 2026-10-18 | [solution](math/0010-matrix-multiplication) |
+| [Multi-Head Attention: Parameters and FLOPs per Layer](https://www.deep-ml.com/math-problems/231) | medium | 2026-10-21 | [solution](math/0231-multi-head-attention-parameters-and-flops-per-layer) |
 | [Multivariate Calculus](https://www.deep-ml.com/math-problems/2) | medium | 2026-10-18 | [solution](math/0002-multivariate-calculus) |
 | [Neural Network Derivatives](https://www.deep-ml.com/math-problems/3) | medium | 2026-10-19 | [solution](math/0003-neural-network-derivatives) |
 | [Optimization: Convexity and Critical Points](https://www.deep-ml.com/math-problems/6) | medium | 2026-10-19 | [solution](math/0006-optimization-convexity-and-critical-points) |

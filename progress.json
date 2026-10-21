@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T15:54:53.355Z",
+  "generated_at": "2026-10-21T18:43:07.908Z",
   "items": {
     "problem:5": {
       "kind": "problem",
@@ -388,6 +388,17 @@
       "path": "math/0230-why-scale-by-sqrt-d-k",
       "first_solved_at": "2026-10-21T15:54:52.788Z",
       "last_pushed_at": "2026-10-21T15:54:52.788Z"
+    },
+    "math:231": {
+      "kind": "math",
+      "id": "231",
+      "title": "Multi-Head Attention: Parameters and FLOPs per Layer",
+      "difficulty": "medium",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/231",
+      "path": "math/0231-multi-head-attention-parameters-and-flops-per-layer",
+      "first_solved_at": "2026-10-21T18:43:07.296Z",
+      "last_pushed_at": "2026-10-21T18:43:07.296Z"
     }
   }
 }
