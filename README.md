@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**38** solved · 19 problems · 0 labs · 19 math
+**39** solved · 19 problems · 0 labs · 20 math
 
 ![Coverage](./coverage.svg)
 
@@ -49,6 +49,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Multi-Head Attention: Parameters and FLOPs per Layer](https://www.deep-ml.com/math-problems/231) | medium | 2026-10-21 | [solution](math/0231-multi-head-attention-parameters-and-flops-per-layer) |
 | [Multivariate Calculus](https://www.deep-ml.com/math-problems/2) | medium | 2026-10-18 | [solution](math/0002-multivariate-calculus) |
 | [Neural Network Derivatives](https://www.deep-ml.com/math-problems/3) | medium | 2026-10-19 | [solution](math/0003-neural-network-derivatives) |
+| [Online Softmax: Running Max and Correction](https://www.deep-ml.com/math-problems/66) | medium | 2026-10-23 | [solution](math/0066-online-softmax-running-max-and-correction) |
 | [Optimization: Convexity and Critical Points](https://www.deep-ml.com/math-problems/6) | medium | 2026-10-19 | [solution](math/0006-optimization-convexity-and-critical-points) |
 | [Roofline: Time is the Max of Bytes/BW and FLOPs/Peak](https://www.deep-ml.com/math-problems/64) | medium | 2026-10-22 | [solution](math/0064-roofline-time-is-the-max-of-bytes-bw-and-flops-peak) |
 | [Softmax and Cross-Entropy](https://www.deep-ml.com/math-problems/32) | medium | 2026-10-20 | [solution](math/0032-softmax-and-cross-entropy) |
