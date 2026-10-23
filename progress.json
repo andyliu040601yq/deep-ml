@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T21:15:40.720Z",
+  "generated_at": "2026-10-23T05:00:03.254Z",
   "items": {
     "problem:5": {
       "kind": "problem",
@@ -445,6 +445,17 @@
       "path": "math/0064-roofline-time-is-the-max-of-bytes-bw-and-flops-peak",
       "first_solved_at": "2026-10-22T21:15:39.953Z",
       "last_pushed_at": "2026-10-22T21:15:39.953Z"
+    },
+    "math:65": {
+      "kind": "math",
+      "id": "65",
+      "title": "Speculative Speedup as a Geometric Series",
+      "difficulty": "medium",
+      "category": "Inference Engineering",
+      "url": "https://www.deep-ml.com/math-problems/65",
+      "path": "math/0065-speculative-speedup-as-a-geometric-series",
+      "first_solved_at": "2026-10-23T05:00:02.600Z",
+      "last_pushed_at": "2026-10-23T05:00:02.600Z"
     }
   }
 }
