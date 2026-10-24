@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**40** solved · 19 problems · 0 labs · 21 math
+**41** solved · 19 problems · 0 labs · 22 math
 
 ![Coverage](./coverage.svg)
 
@@ -41,6 +41,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Expectation and Variance Algebra](https://www.deep-ml.com/math-problems/33) | easy | 2026-10-19 | [solution](math/0033-expectation-and-variance-algebra) |
 | [Gradient Descent Updates](https://www.deep-ml.com/math-problems/5) | easy | 2026-10-19 | [solution](math/0005-gradient-descent-updates) |
 | [PagedAttention Internal Fragmentation](https://www.deep-ml.com/math-problems/67) | easy | 2026-10-24 | [solution](math/0067-pagedattention-internal-fragmentation) |
+| [Prefix-Cache Hit Rate and TTFT](https://www.deep-ml.com/math-problems/68) | easy | 2026-10-24 | [solution](math/0068-prefix-cache-hit-rate-and-ttft) |
 | [Probability Fundamentals](https://www.deep-ml.com/math-problems/19) | easy | 2026-10-19 | [solution](math/0019-probability-fundamentals) |
 | [Vector Operations](https://www.deep-ml.com/math-problems/7) | easy | 2026-10-18 | [solution](math/0007-vector-operations) |
 | [Arithmetic Intensity of Matmul vs Decode Attention](https://www.deep-ml.com/math-problems/63) | medium | 2026-10-22 | [solution](math/0063-arithmetic-intensity-of-matmul-vs-decode-attention) |

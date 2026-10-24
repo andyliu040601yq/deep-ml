@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T15:58:16.648Z",
+  "generated_at": "2026-10-24T16:28:11.851Z",
   "items": {
     "problem:5": {
       "kind": "problem",
@@ -478,6 +478,17 @@
       "path": "math/0067-pagedattention-internal-fragmentation",
       "first_solved_at": "2026-10-24T15:58:16.130Z",
       "last_pushed_at": "2026-10-24T15:58:16.130Z"
+    },
+    "math:68": {
+      "kind": "math",
+      "id": "68",
+      "title": "Prefix-Cache Hit Rate and TTFT",
+      "difficulty": "easy",
+      "category": "Inference Engineering",
+      "url": "https://www.deep-ml.com/math-problems/68",
+      "path": "math/0068-prefix-cache-hit-rate-and-ttft",
+      "first_solved_at": "2026-10-24T16:28:11.130Z",
+      "last_pushed_at": "2026-10-24T16:28:11.130Z"
     }
   }
 }
