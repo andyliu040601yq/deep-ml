@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T16:28:11.851Z",
+  "generated_at": "2026-10-24T18:20:02.362Z",
   "items": {
     "problem:5": {
       "kind": "problem",
@@ -489,6 +489,17 @@
       "path": "math/0068-prefix-cache-hit-rate-and-ttft",
       "first_solved_at": "2026-10-24T16:28:11.130Z",
       "last_pushed_at": "2026-10-24T16:28:11.130Z"
+    },
+    "math:69": {
+      "kind": "math",
+      "id": "69",
+      "title": "Quantized KV: Scale, Zero-Point, and Extra Bytes",
+      "difficulty": "medium",
+      "category": "Inference Engineering",
+      "url": "https://www.deep-ml.com/math-problems/69",
+      "path": "math/0069-quantized-kv-scale-zero-point-and-extra-bytes",
+      "first_solved_at": "2026-10-24T18:20:01.828Z",
+      "last_pushed_at": "2026-10-24T18:20:01.828Z"
     }
   }
 }
