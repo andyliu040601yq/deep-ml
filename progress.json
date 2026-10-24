@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T17:24:38.326Z",
+  "generated_at": "2026-10-24T15:58:16.648Z",
   "items": {
     "problem:5": {
       "kind": "problem",
@@ -467,6 +467,17 @@
       "path": "math/0066-online-softmax-running-max-and-correction",
       "first_solved_at": "2026-10-23T17:24:37.671Z",
       "last_pushed_at": "2026-10-23T17:24:37.671Z"
+    },
+    "math:67": {
+      "kind": "math",
+      "id": "67",
+      "title": "PagedAttention Internal Fragmentation",
+      "difficulty": "easy",
+      "category": "Inference Engineering",
+      "url": "https://www.deep-ml.com/math-problems/67",
+      "path": "math/0067-pagedattention-internal-fragmentation",
+      "first_solved_at": "2026-10-24T15:58:16.130Z",
+      "last_pushed_at": "2026-10-24T15:58:16.130Z"
     }
   }
 }
