@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T00:03:28.836Z",
+  "generated_at": "2026-10-25T20:21:37.750Z",
   "items": {
     "problem:5": {
       "kind": "problem",
@@ -513,6 +513,19 @@
       "last_pushed_at": "2026-10-25T00:03:28.320Z",
       "language": "python",
       "lines": 17
+    },
+    "problem:413": {
+      "kind": "problem",
+      "id": "413",
+      "title": "End-to-End Latency Decomposition",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/413",
+      "path": "problems/0413-end-to-end-latency-decomposition",
+      "first_solved_at": "2026-10-25T20:21:37.252Z",
+      "last_pushed_at": "2026-10-25T20:21:37.252Z",
+      "language": "python",
+      "lines": 45
     }
   }
 }
