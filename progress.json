@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T18:20:02.362Z",
+  "generated_at": "2026-10-25T00:03:28.836Z",
   "items": {
     "problem:5": {
       "kind": "problem",
@@ -500,6 +500,19 @@
       "path": "math/0069-quantized-kv-scale-zero-point-and-extra-bytes",
       "first_solved_at": "2026-10-24T18:20:01.828Z",
       "last_pushed_at": "2026-10-24T18:20:01.828Z"
+    },
+    "problem:411": {
+      "kind": "problem",
+      "id": "411",
+      "title": "Compute TTFT ITL and TPS from a Token Timestamp Stream",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/411",
+      "path": "problems/0411-compute-ttft-itl-and-tps-from-a-token-timestamp-stream",
+      "first_solved_at": "2026-10-25T00:03:28.320Z",
+      "last_pushed_at": "2026-10-25T00:03:28.320Z",
+      "language": "python",
+      "lines": 17
     }
   }
 }
