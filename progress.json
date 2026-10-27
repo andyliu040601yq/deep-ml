@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T20:24:20.107Z",
+  "generated_at": "2026-10-27T20:27:10.876Z",
   "items": {
     "problem:5": {
       "kind": "problem",
@@ -591,6 +591,19 @@
       "last_pushed_at": "2026-10-27T20:24:19.507Z",
       "language": "python",
       "lines": 31
+    },
+    "problem:1012": {
+      "kind": "problem",
+      "id": "1012",
+      "title": "KV Cache Size Estimator for MLA vs MHA vs GQA",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1012",
+      "path": "problems/1012-kv-cache-size-estimator-for-mla-vs-mha-vs-gqa",
+      "first_solved_at": "2026-10-27T20:27:10.361Z",
+      "last_pushed_at": "2026-10-27T20:27:10.361Z",
+      "language": "python",
+      "lines": 9
     }
   }
 }
