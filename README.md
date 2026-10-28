@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**51** solved · 28 problems · 0 labs · 23 math
+**52** solved · 29 problems · 0 labs · 23 math
 
 ![Coverage](./coverage.svg)
 
@@ -12,6 +12,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Analyzing Memory Fragmentation in LLM Serving](https://www.deep-ml.com/problems/495) | easy | 2026-10-28 | [solution](problems/0495-analyzing-memory-fragmentation-in-llm-serving) |
 | [Binary Classification with Logistic Regression](https://www.deep-ml.com/problems/104) | easy | 2026-10-20 | [solution](problems/0104-binary-classification-with-logistic-regression) |
 | [Calculate 2x2 Matrix Inverse](https://www.deep-ml.com/problems/8) | easy | 2026-10-17 | [solution](problems/0008-calculate-2x2-matrix-inverse) |
 | [Calculate Covariance Matrix](https://www.deep-ml.com/problems/10) | easy | 2026-10-17 | [solution](problems/0010-calculate-covariance-matrix) |
