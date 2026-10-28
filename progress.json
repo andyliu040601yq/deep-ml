@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T17:39:17.579Z",
+  "generated_at": "2026-10-28T18:08:01.424Z",
   "items": {
     "problem:5": {
       "kind": "problem",
@@ -630,6 +630,19 @@
       "last_pushed_at": "2026-10-28T17:39:16.993Z",
       "language": "python",
       "lines": 51
+    },
+    "problem:493": {
+      "kind": "problem",
+      "id": "493",
+      "title": "Building a Virtual Memory System for KV Cache",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/493",
+      "path": "problems/0493-building-a-virtual-memory-system-for-kv-cache",
+      "first_solved_at": "2026-10-28T18:08:00.784Z",
+      "last_pushed_at": "2026-10-28T18:08:00.784Z",
+      "language": "python",
+      "lines": 87
     }
   }
 }
