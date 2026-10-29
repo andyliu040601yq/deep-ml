@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T23:30:57.350Z",
+  "generated_at": "2026-10-29T15:09:05.959Z",
   "items": {
     "problem:5": {
       "kind": "problem",
@@ -656,6 +656,19 @@
       "last_pushed_at": "2026-10-28T23:30:56.610Z",
       "language": "python",
       "lines": 48
+    },
+    "problem:494": {
+      "kind": "problem",
+      "id": "494",
+      "title": "Copy-on-Write Memory Sharing for LLM Sampling",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/494",
+      "path": "problems/0494-copy-on-write-memory-sharing-for-llm-sampling",
+      "first_solved_at": "2026-10-29T15:09:05.271Z",
+      "last_pushed_at": "2026-10-29T15:09:05.271Z",
+      "language": "python",
+      "lines": 58
     }
   }
 }

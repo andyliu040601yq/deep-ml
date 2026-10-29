@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**54** solved · 31 problems · 0 labs · 23 math
+**55** solved · 32 problems · 0 labs · 23 math
 
 ![Coverage](./coverage.svg)
 
@@ -32,6 +32,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-10-17 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Classify LLM Prefill vs Decode as Compute-Bound or Memory-Bound](https://www.deep-ml.com/problems/417) | medium | 2026-10-27 | [solution](problems/0417-classify-llm-prefill-vs-decode-as-compute-bound-or-memory-bound) |
 | [Compute Attention Memory Traffic and FLOPs](https://www.deep-ml.com/problems/416) | medium | 2026-10-27 | [solution](problems/0416-compute-attention-memory-traffic-and-flops) |
+| [Copy-on-Write Memory Sharing for LLM Sampling](https://www.deep-ml.com/problems/494) | medium | 2026-10-29 | [solution](problems/0494-copy-on-write-memory-sharing-for-llm-sampling) |
 | [End-to-End Latency Decomposition](https://www.deep-ml.com/problems/413) | medium | 2026-10-25 | [solution](problems/0413-end-to-end-latency-decomposition) |
 | [Estimate KV Cache Size from Model Config](https://www.deep-ml.com/problems/418) | medium | 2026-10-27 | [solution](problems/0418-estimate-kv-cache-size-from-model-config) |
 | [Implement Masked Self-Attention](https://www.deep-ml.com/problems/107) | medium | 2026-10-22 | [solution](problems/0107-implement-masked-self-attention) |
