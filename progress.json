@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T21:03:59.279Z",
+  "generated_at": "2026-10-30T22:09:47.415Z",
   "items": {
     "problem:5": {
       "kind": "problem",
@@ -682,6 +682,17 @@
       "last_pushed_at": "2026-10-29T21:03:58.471Z",
       "language": "python",
       "lines": 29
+    },
+    "math:162": {
+      "kind": "math",
+      "id": "162",
+      "title": "Little's Law: Concurrency, Throughput and Latency",
+      "difficulty": "easy",
+      "category": "Inference Engineering",
+      "url": "https://www.deep-ml.com/math-problems/162",
+      "path": "math/0162-little-s-law-concurrency-throughput-and-latency",
+      "first_solved_at": "2026-10-30T22:09:46.844Z",
+      "last_pushed_at": "2026-10-30T22:09:46.844Z"
     }
   }
 }
