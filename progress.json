@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T22:09:47.415Z",
+  "generated_at": "2026-11-02T01:07:00.116Z",
   "items": {
     "problem:5": {
       "kind": "problem",
@@ -693,6 +693,19 @@
       "path": "math/0162-little-s-law-concurrency-throughput-and-latency",
       "first_solved_at": "2026-10-30T22:09:46.844Z",
       "last_pushed_at": "2026-10-30T22:09:46.844Z"
+    },
+    "problem:425": {
+      "kind": "problem",
+      "id": "425",
+      "title": "Continuous Batching (In-Flight Batching) Simulator",
+      "difficulty": "medium",
+      "category": "Inference",
+      "url": "https://www.deep-ml.com/problems/425",
+      "path": "problems/0425-continuous-batching-in-flight-batching-simulator",
+      "first_solved_at": "2026-11-02T01:06:59.580Z",
+      "last_pushed_at": "2026-11-02T01:06:59.580Z",
+      "language": "python",
+      "lines": 79
     }
   }
 }
