@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T22:00:24.731Z",
+  "generated_at": "2026-11-03T22:34:13.943Z",
   "items": {
     "problem:5": {
       "kind": "problem",
@@ -776,6 +776,19 @@
       "path": "math/0164-perplexity-as-exponentiated-cross-entropy",
       "first_solved_at": "2026-11-03T22:00:24.235Z",
       "last_pushed_at": "2026-11-03T22:00:24.235Z"
+    },
+    "problem:316": {
+      "kind": "problem",
+      "id": "316",
+      "title": "MMLU Log-Probability Scoring",
+      "difficulty": "medium",
+      "category": "LLM",
+      "url": "https://www.deep-ml.com/problems/316",
+      "path": "problems/0316-mmlu-log-probability-scoring",
+      "first_solved_at": "2026-11-03T22:34:12.735Z",
+      "last_pushed_at": "2026-11-03T22:34:12.735Z",
+      "language": "python",
+      "lines": 28
     }
   }
 }

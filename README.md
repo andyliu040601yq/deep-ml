@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**64** solved · 36 problems · 0 labs · 28 math
+**65** solved · 37 problems · 0 labs · 28 math
 
 ![Coverage](./coverage.svg)
 
@@ -42,6 +42,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [KV Cache for Efficient Autoregressive Attention](https://www.deep-ml.com/problems/376) | medium | 2026-10-28 | [solution](problems/0376-kv-cache-for-efficient-autoregressive-attention) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-10-17 | [solution](problems/0009-matrix-times-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-10-17 | [solution](problems/0007-matrix-transformation) |
+| [MMLU Log-Probability Scoring](https://www.deep-ml.com/problems/316) | medium | 2026-11-03 | [solution](problems/0316-mmlu-log-probability-scoring) |
 | [Preemption Strategies: Swapping vs Recomputation](https://www.deep-ml.com/problems/497) | medium | 2026-10-29 | [solution](problems/0497-preemption-strategies-swapping-vs-recomputation) |
 | [Solve Linear Equations using Jacobi Method](https://www.deep-ml.com/problems/11) | medium | 2026-10-17 | [solution](problems/0011-solve-linear-equations-using-jacobi-method) |
 | [Implementing a Custom Dense Layer in Python](https://www.deep-ml.com/problems/40) | hard | 2026-10-20 | [solution](problems/0040-implementing-a-custom-dense-layer-in-python) |
