@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T21:40:48.507Z",
+  "generated_at": "2026-11-03T22:00:24.731Z",
   "items": {
     "problem:5": {
       "kind": "problem",
@@ -765,6 +765,17 @@
       "path": "math/0127-precision-and-recall-at-a-threshold",
       "first_solved_at": "2026-11-03T21:40:48.038Z",
       "last_pushed_at": "2026-11-03T21:40:48.038Z"
+    },
+    "math:164": {
+      "kind": "math",
+      "id": "164",
+      "title": "Perplexity as Exponentiated Cross-Entropy",
+      "difficulty": "easy",
+      "category": "Inference Engineering",
+      "url": "https://www.deep-ml.com/math-problems/164",
+      "path": "math/0164-perplexity-as-exponentiated-cross-entropy",
+      "first_solved_at": "2026-11-03T22:00:24.235Z",
+      "last_pushed_at": "2026-11-03T22:00:24.235Z"
     }
   }
 }
