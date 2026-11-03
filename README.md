@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**61** solved · 36 problems · 0 labs · 25 math
+**62** solved · 36 problems · 0 labs · 26 math
 
 ![Coverage](./coverage.svg)
 
@@ -64,6 +64,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Vector Operations](https://www.deep-ml.com/math-problems/7) | easy | 2026-10-18 | [solution](math/0007-vector-operations) |
 | [Arithmetic Intensity of Matmul vs Decode Attention](https://www.deep-ml.com/math-problems/63) | medium | 2026-10-22 | [solution](math/0063-arithmetic-intensity-of-matmul-vs-decode-attention) |
 | [Bayes' Theorem](https://www.deep-ml.com/math-problems/20) | medium | 2026-10-19 | [solution](math/0020-bayes-theorem) |
+| [Bradley-Terry Preference Model](https://www.deep-ml.com/math-problems/51) | medium | 2026-11-03 | [solution](math/0051-bradley-terry-preference-model) |
 | [Information Theory: Entropy](https://www.deep-ml.com/math-problems/24) | medium | 2026-11-03 | [solution](math/0024-information-theory-entropy) |
 | [Law of Large Numbers and Central Limit Theorem](https://www.deep-ml.com/math-problems/23) | medium | 2026-10-19 | [solution](math/0023-law-of-large-numbers-and-central-limit-theorem) |
 | [Matrix Multiplication](https://www.deep-ml.com/math-problems/10) | medium | 2026-10-18 | [solution](math/0010-matrix-multiplication) |
