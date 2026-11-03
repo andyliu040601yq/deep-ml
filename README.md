@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**65** solved · 37 problems · 0 labs · 28 math
+**66** solved · 38 problems · 0 labs · 28 math
 
 ![Coverage](./coverage.svg)
 
@@ -36,6 +36,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Compute Attention Memory Traffic and FLOPs](https://www.deep-ml.com/problems/416) | medium | 2026-10-27 | [solution](problems/0416-compute-attention-memory-traffic-and-flops) |
 | [Continuous Batching (In-Flight Batching) Simulator](https://www.deep-ml.com/problems/425) | medium | 2026-11-02 | [solution](problems/0425-continuous-batching-in-flight-batching-simulator) |
 | [Copy-on-Write Memory Sharing for LLM Sampling](https://www.deep-ml.com/problems/494) | medium | 2026-10-29 | [solution](problems/0494-copy-on-write-memory-sharing-for-llm-sampling) |
+| [Elo Rating System for Model Comparison](https://www.deep-ml.com/problems/315) | medium | 2026-11-03 | [solution](problems/0315-elo-rating-system-for-model-comparison) |
 | [End-to-End Latency Decomposition](https://www.deep-ml.com/problems/413) | medium | 2026-10-25 | [solution](problems/0413-end-to-end-latency-decomposition) |
 | [Estimate KV Cache Size from Model Config](https://www.deep-ml.com/problems/418) | medium | 2026-10-27 | [solution](problems/0418-estimate-kv-cache-size-from-model-config) |
 | [Implement Masked Self-Attention](https://www.deep-ml.com/problems/107) | medium | 2026-10-22 | [solution](problems/0107-implement-masked-self-attention) |
