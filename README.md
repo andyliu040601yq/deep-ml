@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**62** solved · 36 problems · 0 labs · 26 math
+**63** solved · 36 problems · 0 labs · 27 math
 
 ![Coverage](./coverage.svg)
 
@@ -59,6 +59,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Gradient Descent Updates](https://www.deep-ml.com/math-problems/5) | easy | 2026-10-19 | [solution](math/0005-gradient-descent-updates) |
 | [Little's Law: Concurrency, Throughput and Latency](https://www.deep-ml.com/math-problems/162) | easy | 2026-10-30 | [solution](math/0162-little-s-law-concurrency-throughput-and-latency) |
 | [PagedAttention Internal Fragmentation](https://www.deep-ml.com/math-problems/67) | easy | 2026-10-24 | [solution](math/0067-pagedattention-internal-fragmentation) |
+| [Precision and Recall at a Threshold](https://www.deep-ml.com/math-problems/127) | easy | 2026-11-03 | [solution](math/0127-precision-and-recall-at-a-threshold) |
 | [Prefix-Cache Hit Rate and TTFT](https://www.deep-ml.com/math-problems/68) | easy | 2026-10-24 | [solution](math/0068-prefix-cache-hit-rate-and-ttft) |
 | [Probability Fundamentals](https://www.deep-ml.com/math-problems/19) | easy | 2026-10-19 | [solution](math/0019-probability-fundamentals) |
 | [Vector Operations](https://www.deep-ml.com/math-problems/7) | easy | 2026-10-18 | [solution](math/0007-vector-operations) |
