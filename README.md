@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**67** solved · 39 problems · 0 labs · 28 math
+**68** solved · 40 problems · 0 labs · 28 math
 
 ![Coverage](./coverage.svg)
 
@@ -20,6 +20,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2026-10-16 | [solution](problems/0004-calculate-mean-by-row-or-column) |
 | [Compute Arithmetic Intensity and Classify Bottleneck](https://www.deep-ml.com/problems/414) | easy | 2026-10-25 | [solution](problems/0414-compute-arithmetic-intensity-and-classify-bottleneck) |
 | [Compute TTFT ITL and TPS from a Token Timestamp Stream](https://www.deep-ml.com/problems/411) | easy | 2026-10-25 | [solution](problems/0411-compute-ttft-itl-and-tps-from-a-token-timestamp-stream) |
+| [Goodput vs Throughput under a P99 SLA](https://www.deep-ml.com/problems/1307) | easy | 2026-11-10 | [solution](problems/1307-goodput-vs-throughput-under-a-p99-sla) |
 | [Implement the Softsign Activation Function](https://www.deep-ml.com/problems/100) | easy | 2026-10-20 | [solution](problems/0100-implement-the-softsign-activation-function) |
 | [KV Cache Size Estimator for MLA vs MHA vs GQA](https://www.deep-ml.com/problems/1012) | easy | 2026-10-27 | [solution](problems/1012-kv-cache-size-estimator-for-mla-vs-mha-vs-gqa) |
 | [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2026-10-18 | [solution](problems/0015-linear-regression-using-gradient-descent) |

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T02:50:21.931Z",
+  "generated_at": "2026-11-10T02:11:33.286Z",
   "items": {
     "problem:5": {
       "kind": "problem",
@@ -815,6 +815,19 @@
       "last_pushed_at": "2026-11-05T02:50:21.423Z",
       "language": "python",
       "lines": 34
+    },
+    "problem:1307": {
+      "kind": "problem",
+      "id": "1307",
+      "title": "Goodput vs Throughput under a P99 SLA",
+      "difficulty": "easy",
+      "category": "Inference",
+      "url": "https://www.deep-ml.com/problems/1307",
+      "path": "problems/1307-goodput-vs-throughput-under-a-p99-sla",
+      "first_solved_at": "2026-11-10T02:11:32.512Z",
+      "last_pushed_at": "2026-11-10T02:11:32.512Z",
+      "language": "python",
+      "lines": 29
     }
   }
 }
