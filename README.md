@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**68** solved · 40 problems · 0 labs · 28 math
+**69** solved · 41 problems · 0 labs · 28 math
 
 ![Coverage](./coverage.svg)
 
@@ -34,6 +34,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Bradley-Terry Model for Pairwise Rankings](https://www.deep-ml.com/problems/322) | medium | 2026-11-05 | [solution](problems/0322-bradley-terry-model-for-pairwise-rankings) |
 | [Building a Virtual Memory System for KV Cache](https://www.deep-ml.com/problems/493) | medium | 2026-10-28 | [solution](problems/0493-building-a-virtual-memory-system-for-kv-cache) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-10-17 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
+| [Chunked Prefill Scheduling Alongside Decode](https://www.deep-ml.com/problems/441) | medium | 2026-11-10 | [solution](problems/0441-chunked-prefill-scheduling-alongside-decode) |
 | [Classify LLM Prefill vs Decode as Compute-Bound or Memory-Bound](https://www.deep-ml.com/problems/417) | medium | 2026-10-27 | [solution](problems/0417-classify-llm-prefill-vs-decode-as-compute-bound-or-memory-bound) |
 | [Compute Attention Memory Traffic and FLOPs](https://www.deep-ml.com/problems/416) | medium | 2026-10-27 | [solution](problems/0416-compute-attention-memory-traffic-and-flops) |
 | [Continuous Batching (In-Flight Batching) Simulator](https://www.deep-ml.com/problems/425) | medium | 2026-11-02 | [solution](problems/0425-continuous-batching-in-flight-batching-simulator) |
